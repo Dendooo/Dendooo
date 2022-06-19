@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dendooo
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on every project I've made
+- 📫 How to reach me? just dm me on instagram: @dendoonih
 
 <!---
 Dendooo/Dendooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
